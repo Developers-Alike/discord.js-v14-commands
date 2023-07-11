@@ -24,7 +24,9 @@
       seasoned pro or just starting your coding journey, Visual Studio Code empowers you with its versatility, speed, and an ever-growing ecosystem of tools and features. You can donwload it here: https://code.visualstudio.com/download
 
   </details>
+
   ---
+  
 
   ## Usage
 
