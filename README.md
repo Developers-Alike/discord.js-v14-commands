@@ -50,3 +50,8 @@
 | Problem with the repository (spam)   | Valid to DM me   |
 | Question about the code  | Everything is documented, if you still have problems, create an issue   |
           
+---
+
+## License
+
+**This repository has not been licensed yet**
