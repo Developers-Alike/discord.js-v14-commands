@@ -10,10 +10,11 @@
 
 
 ## Installation
+   *We expect you to already have a functional Discord bot up and running.*
    <details>
-    <summary>Node.js</summary>
+    <summary>[Node.js](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)</summary>
       Node.js is the JavaScript engine exported from the browser to make non-browser applications possible.
-      You can download it [here](https://nodejs.org/de/download) , i recommend the LTS (Long Term Stable) version.
+      You can download it , i recommend the LTS (Long Term Stable) version.
 
   </details>
   <details>
